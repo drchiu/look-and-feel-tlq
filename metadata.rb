@@ -1,6 +1,6 @@
-name              "look_and_feel-tlq"
-maintainer        "Ben Dixon"
-maintainer_email  "ben@hillsbede.co.uk"
+name              "look-and-feel-tlq"
+maintainer        "Simon Chiu"
+maintainer_email  "skhchiu@gmail.com"
 description       "Installs tools to make the server nicer to work on, quite opinionated"
 version           "0.0.1"
 

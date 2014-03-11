@@ -1,5 +1,5 @@
 #
-# Author:: Ben Dixon
+# Author:: Ben Dixon, modified by Simon Chiu
 # Cookbook Name:: look_and_feel-tlq
 # Attributes:: default
 #
