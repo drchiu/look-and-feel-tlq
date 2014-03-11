@@ -2,9 +2,6 @@
 # to top.
 package 'htop'
 
-# Vim because we're going to want to edit Rails config files
-package 'vim'
-
 # Because not everyone will send us nice  .tar.gz files
 package 'unzip'
 
